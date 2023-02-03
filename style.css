@@ -1,0 +1,74 @@
+ .green {
+  color: #ffffff;
+  /*setting alpha = 0.5*/
+background: rgba(45, 161, 31, 0.5);
+}
+.imgcenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.imgborder {
+  border: 7.5px solid #542d75;
+  border-radius: 25px;
+}
+body {
+  background-color: #2d778f;
+}
+
+.info {
+  background-color: #2da11f;
+  border-radius: 10px;
+  border: 5px solid #542d75;
+}
+.margin {
+  margin-top: 8px;
+}
+.margin-auto {
+  margin: auto;
+}
+hr{
+  border: 50px solid black;
+}
+.carousel {
+  border: 15px solid #542d75;
+}
+.navbar {
+  margin-left: 500px;
+  margin-right: 500px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.jokerimgmargleft {
+  margin-left: 15.5px;
+}
+.bottomthing {
+  margin-top: 175px;
+}
+.textmargin {
+  margin-top: 20px;
+  color: #542d75;
+}
+.centerbordernavbar {
+  margin: auto;
+}
+.navbar {
+  border: 15px solid #542d75;
+  background-color: #239816;
+  
+}
+.jokerimgmargright {
+  margin-left: 20px;
+}
+
+.cardmarginleft {
+  margin-left: 20px;
+}
+.cardmarginright {
+  margin-left: 20px;
+}
+.customcard {
+  background-color: #239816;
+  color: black;
+  border: 15px solid #542d75;
+}
